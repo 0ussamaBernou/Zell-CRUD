@@ -1,0 +1,4 @@
+# user specific files
+info.json
+node_modules
+*.vscode
