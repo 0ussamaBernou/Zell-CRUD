@@ -28,7 +28,6 @@ const info = require("./info.json");
 
 let mongoPass = info.mongoPass;
 const connectionString = `mongodb+srv://oussa:${mongoPass}@oussa.t23qw.mongodb.net/?retryWrites=true&w=majority`;
-console.log(connectionString);
 
 //callback version
 
